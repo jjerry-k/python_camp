@@ -1,1 +1,6 @@
+title: Python Camp
+logo: /image/python.png
+description: Life is short. You need Python.
+show_downloads: False
+google_analytics:
 theme: jekyll-theme-minimal
