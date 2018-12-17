@@ -20,11 +20,6 @@ MMMIL(Multi-Modality Medical Imaging Lab)에서 겨울방학 기간에 **인공�
        
    - 프로젝트 : 이론 스터디 이후 남은 방학기간에 진행
 
-## 3. 문의
-   - 김태진 연구원 
-   - 카톡, 문자, 전화 다 좋습니다. :)
-
-
 
 4차 산업혁명의 흐름 속에서 전성기를 맞이한 인공지능(Deep Learning) 기술은 거의 모든 분야에서 응용되고 있습니다. 저희 의용생체공학 분야도 예외는 아닙니다. X-ray 영상으로부터 뼈의 나이를 분석하는 기술을 개발한 [**VUNO**](https://www.vuno.co/)와, chest radiography로부터 의사의 판독을 보조하여 폐 결절(폐암)을 검출하는 기술을 개발한 [**Lunit**](https://lunit.io/), 저희 가천대 길병원에서 한국 최초로 도입한 [**IBM Watson**](https://www.ibm.com/watson/) 등이 의료 인공지능의 대표적인 사례입니다.  
 
