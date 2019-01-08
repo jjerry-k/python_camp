@@ -5,11 +5,10 @@ layout: default
 # About Python  <!-- omit in toc -->
 ---
 ## Contents  <!-- omit in toc -->
-- [layout: default](#layout-default)
-  - [Python?](#python)
-  - [Why Python?](#why-python)
-  - [Who Uses Python?](#who-uses-python)
-  - [What Can I Do?](#what-can-i-do)
+- [Python?](#python)
+- [Why Python?](#why-python)
+- [Who Uses Python?](#who-uses-python)
+- [What Can I Do?](#what-can-i-do)
 
 ### Python?
 
