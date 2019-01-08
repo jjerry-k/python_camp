@@ -9,6 +9,7 @@ layout: default
 - [Why Python?](#why-python)
 - [Who Uses Python?](#who-uses-python)
 - [What Can I Do?](#what-can-i-do)
+- [The Downside?](#the-downside)
 
 ### Python?
 
@@ -80,6 +81,9 @@ layout: default
 - [Image Processing](https://opencv-python-tutroals.readthedocs.io/en/latest/_images/face.jpg){: target="_blank" }
 - [Robot control](https://pythonprogramming.net/robotics-raspberry-pi-tutorial-gopigo-introduction/){: target="_blank" }
 - ...
+
+### The Downside?
+-  C 또는 C++ 같은 완전한 컴파일 및 저수준 언어만큼 항상 빠르게 실행되지는 않는다.
 
 [Back to Home](../index.md)
 
