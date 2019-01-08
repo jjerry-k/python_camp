@@ -81,6 +81,6 @@ layout: default
 - [Robot control](https://pythonprogramming.net/robotics-raspberry-pi-tutorial-gopigo-introduction/){: target="_blank" }
 - ...
 
-[Back to Home](/)
+[Back to Home](/python_camp/index.md)
 
-[Back to Lecture list](/lecturelist.md)
+[Back to Lecture list](/python_camp/lecturelist.md)
