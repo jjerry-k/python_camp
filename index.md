@@ -28,4 +28,4 @@ MMMIL(Multi-Modality Medical Imaging Lab)에서 겨울방학 기간에 **인공�
 의료영상과 인공지능을 연구하고 있는 저희 MMMIL은 학우 여러분의 잠재된 프로그래밍 능력을 깨우기 위한 겨울방학 스터디를 진행하고자 합니다. 의용생체공학과 학우 여러분의 **'나만의 무기'**, 프로그래밍은 어떠신가요?
 
 
-[Lecture List](/python_camp/lecturelist.md).
+[Lecture List](./lecturelist.md).

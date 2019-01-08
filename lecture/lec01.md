@@ -5,10 +5,11 @@ layout: default
 # About Python  <!-- omit in toc -->
 ---
 ## Contents  <!-- omit in toc -->
-- [Python?](#python)
-- [Why Python?](#why-python)
-- [Who Uses Python?](#who-uses-python)
-- [What Can I Do?](#what-can-i-do)
+- [layout: default](#layout-default)
+  - [Python?](#python)
+  - [Why Python?](#why-python)
+  - [Who Uses Python?](#who-uses-python)
+  - [What Can I Do?](#what-can-i-do)
 
 ### Python?
 
@@ -81,6 +82,6 @@ layout: default
 - [Robot control](https://pythonprogramming.net/robotics-raspberry-pi-tutorial-gopigo-introduction/){: target="_blank" }
 - ...
 
-[Back to Home](/python_camp/index.md)
+[Back to Home](../index.md)
 
-[Back to Lecture list](/python_camp/lecturelist.md)
+[Back to Lecture list](../lecturelist.md)
