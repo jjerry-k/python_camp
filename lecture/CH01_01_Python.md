@@ -12,6 +12,7 @@ layout: default
   - [What can we do?](#what-can-we-do)
   - [The Downside?](#the-downside)
 ---
+
 ### Python?
 
 **인터프리터** 언어 중 하나. [나무위키](https://namu.wiki/w/%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0) , [Wikipedia](https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0)  
